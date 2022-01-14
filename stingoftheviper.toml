@@ -1,2 +1,9 @@
-favorite-color="blue"
-#number=13
+[foo]
+string = "foo ftw"
+float = 12.3
+bool = true
+
+[bar]
+string = "barbeque"
+float = 0.00001
+bool = false
